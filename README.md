@@ -1,2 +1,2 @@
 # kaustik
-Gamedev
+Gamedev, ai enginner,compatitive programmer and student
